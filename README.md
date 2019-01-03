@@ -1,2 +1,3 @@
-# reverse-change
-리버스 체인지, 흑백의 타일로 이루어진 간단하지만 결코 쉽지 않은 퍼즐게임입니다.
+# 프로젝트 이동 안내
+팀 SeedMaker의 해체에 따라, 해당 프로젝트는 아래의 링크로 이동되었습니다.
+https://github.com/hsh-game/reverse-change
